@@ -190,3 +190,26 @@ footer {
   font-size: 1rem;
   background-color: transparent;
 }
+
+.greeting{
+  font-size: 50px;
+}
+
+img{
+  width: 200px;
+  border-radius: 5px;
+}
+
+#yt-logo{
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+#timer, #clock, #colorchanger, #quote{
+  width: 300px; 
+  height: 150px;
+  border-radius: 5px;
+}
+
+

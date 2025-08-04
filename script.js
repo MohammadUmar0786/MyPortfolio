@@ -8,10 +8,9 @@ if (modeBtn) {
 }
 
 const roles = [
-  { title: "Frontend Developer Enthusiast", color: "#007bff" },
-  { title: "Associate Batch Manager", color: "#e91e63" },
-  { title: "Business Analyst Enthusiast", color: "#4caf50" },
-  { title: "Youtube Educator", color: "#ff9800" },
+  { title: "Associate Batch Manager", color: "#358ce9ff" },
+  { title: "Learner", color: "#e14076ff" },
+  { title: "Frontend Web Developer", color: "#ff9800" },
 ];
 
 let roleIndex = 0;
